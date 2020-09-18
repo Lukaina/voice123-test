@@ -1,44 +1,39 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Voice123-Test
 
-## Available Scripts
+Voice123-Test
+It is an application made in React.JS for the search of users through a button and input, which makes it easier to find the profile of the actor. We can see a series of cards that gives me some results, those are the names of the actors. Then, if I click on any of those names, it will take me to their corresponding profile.
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+Use the package manager [npm](https://www.npmjs.com/) to install foobar.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```bash
+- git clone https://github.com/Lukaina/voice123-test.git
+- cd voice123-test
+- npm install
+- npm start
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+# List Tasks
 
-### `npm test`
+- Install react-router-dom
+- Install node-sass for scss support
+- Install ant design ()
+- Define types
+- Define styles
+- Make template
+- Header Nav
+- Create Context
+- Profile view
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Hours Spent:** 7 Hours
 
-### `npm run build`
+# Future improvements and recommendations
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Improve audio functionality
+- Better organization of the code
+- Card and button design
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## License
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[MIT](https://choosealicense.com/licenses/mit/)
