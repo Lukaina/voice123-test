@@ -5,7 +5,7 @@ It is an application made in React.JS for the search of users through a button a
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install application.
 
 ```bash
 - git clone https://github.com/Lukaina/voice123-test.git
